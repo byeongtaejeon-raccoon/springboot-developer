@@ -18,6 +18,3 @@ spring:
             scope:
               - email
               - profile
-jwt:
-  issuer: aju...
-  secret_key: study-springboot
